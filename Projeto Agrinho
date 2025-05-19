@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho - Conexão Campo e Cidade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #6f4f28;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #8c4f2f;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            background-color: #6f4f28;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        h2 {
+            color: #8c4f2f;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        ol {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Projeto Agrinho</h1>
+        <h2>Conexão Campo e Cidade: Juntos pela Sustentabilidade</h2>
+    </header>
+
+    <nav>
+        <a href="#o-que-e">O que é?</a>
+        <a href="#importancia">Importância</a>
+        <a href="#beneficios">Benefícios</a>
+        <a href="#como-ajudar">Como Ajudar</a>
+    </nav>
+
+    <main>
+        <section id="o-que-e">
+            <h2>O que é a Conexão Campo e Cidade?</h2>
+            <p>A Conexão Campo e Cidade é um conceito que busca integrar as áreas rurais e urbanas para promover o desenvolvimento sustentável. A colaboração 
+                entre esses dois mundos pode trazer benefícios para todos, melhorando a qualidade de vida e a produção de alimentos, além de incentivar a preservação
+                 ambiental.</p>
+            <img src="https://live.staticflickr.com/3150/2726959510_43232ae170_b.jpg" alt="Conexão Campo e Cidade">
+        </section>
+
+        <section id="importancia">
+            <h2>A Importância dessa Conexão</h2>
+            <ul>
+                <li><strong>Fortalecimento da economia:</strong> A união entre o campo e a cidade pode gerar mais empregos e impulsionar a economia local.</li>
+                <li><strong>Desenvolvimento sustentável:</strong> A integração entre essas áreas pode resultar em práticas agrícolas mais sustentáveis e em melhor aproveitamento dos recursos naturais.</li>
+                <li><strong>Distribuição de alimentos:</strong> A cidade depende da produção agrícola do campo para seu abastecimento, criando uma rede de abastecimento mais eficiente.</li>
+                <li><strong>Valorização das culturas locais:</strong> A troca de saberes e experiências entre o urbano e o rural contribui para a valorização das culturas e tradições regionais.</li>
+            </ul>
+        </section>
+
+        <section id="beneficios">
+            <h2>Benefícios da Conexão Campo e Cidade</h2>
+            <p>A integração dos dois mundos traz uma série de benefícios para a sociedade como um todo:</p>
+            <ol>
+                <li><strong>Acesso a produtos frescos e saudáveis:</strong> Produtos direto do campo para as cidades, sem intermediários.</li>
+                <li><strong>Inovações tecnológicas:</strong> A tecnologia pode ser aplicada no campo para aumentar a produtividade, e as cidades podem aproveitar essas inovações.</li>
+                <li><strong>Educação e cultura:</strong> Troca de conhecimento e práticas sustentáveis que contribuem para a formação de cidadãos conscientes e responsáveis.</li>
+                <li><strong>Melhora no transporte e logística:</strong> Uma melhor infraestrutura de transporte beneficia tanto o campo quanto a cidade, facilitando a circulação de produtos e pessoas.</li>
+            </ol>
+        </section>
+
+        <section id="como-ajudar">
+            <h2>Como podemos ajudar?</h2>
+            <p>Todos podemos contribuir para fortalecer a conexão entre o campo e a cidade:</p>
+            <ul>
+                <li>Consuma produtos de origem local e sustentável.</li>
+                <li>Apoie iniciativas de agricultura familiar e pequenos produtores.</li>
+                <li>Participe de projetos que incentivem a troca de experiências entre áreas urbanas e rurais.</li>
+                <li>Incentive o uso de tecnologias verdes e práticas sustentáveis nas cidades e no campo.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto Educacional Agrinho - © 2025</p>
+    </footer>
+
+</body>
+</html>
